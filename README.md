@@ -1,0 +1,13 @@
+# FCKWHTSPP
+
+Since all Facebook-related services block all links to telegram.me (see ...), we need an alternative. (Original repository: ...)
+
+This script redirects all requests to telegram.me and is deployed using GitHub pages. Simply replace telegram.me/yourname with .../yourname and you can post this link on Facebook or whatever service of them you use.
+
+## Deploy this script yourself
+
+To prevent Facebook from simply blocking this script, we need a lot of clones. So follow these instruction:
+
+* Fork this repository
+* Rename your fork
+* Spread the word! I recommend using the hashtag #FCKWHTSPP
