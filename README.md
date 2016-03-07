@@ -10,4 +10,4 @@ Feel free to fork, simply follow these instructions:
 
 * Fork this repository
 * Rename your fork
-* Spread the word! I recommend using the hashtag #FCKWHTSPP
+* Spread the word! #FCKWHTSPP
