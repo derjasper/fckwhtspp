@@ -6,8 +6,8 @@ This script redirects all requests to telegram.me and is deployed using GitHub p
 
 ## Deploy this script yourself
 
-To prevent Facebook from simply blocking this script, we need a lot of clones. So follow these instruction:
+Feel free to fork, simply follow these instructions:
 
 * Fork this repository
 * Rename your fork
-* Spread the word! I recommend using the hashtag #FCKWHTSPP
+* Spread the word! #FCKWHTSPP
